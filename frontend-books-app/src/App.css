@@ -1,0 +1,25 @@
+.App {
+  height: 100vh;
+  text-align: center;
+}
+
+nav {
+  background-color: #322929;
+  color: #fff;
+  padding: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff;
+}
